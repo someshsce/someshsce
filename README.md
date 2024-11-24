@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Somesh Sharma!  
+# 👋 Hi, I'm Somesh Sharma!
 ## Aspiring SOC Analyst | Cybersecurity Enthusiast | AI & Automation | Developer
 
-Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specialization in CyberSecurity & CyberDefense** at Sri Sri University. My passion lies at the intersection of **Cybersecurity, Artificial Intelligence, and Programming**, where I strive to build innovative solutions that solve real-world problems.
+Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specialization in CyberSecurity & CyberDefense** at Sri Sri University. My passion lies at the intersection of **Cybersecurity, Artificial Intelligence, and Programming**, where I strive to build innovative solutions that solve real-world problems. 
 
+![Profile Views](https://komarev.com/ghpvc/?username=someshsce&color=blue)
 ---
 
 ## 🚀 **About Me**
