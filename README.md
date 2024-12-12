@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/05ad5d2b-f27e-4181-9310-2bbf4c55ac80)# 👋 Hi, I'm Somesh Sharma!
+# 👋 Hi, I'm Somesh Sharma!
+
 ![image](https://github.com/user-attachments/assets/0ace6b48-fda9-4324-8dca-75b178c79d85)
 
 Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specialization in CyberSecurity & CyberDefense** at Sri Sri University. My passion lies at the intersection of **Cybersecurity, Artificial Intelligence, and Programming**, where I strive to build innovative solutions that solve real-world problems. 
