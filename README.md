@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Somesh Sharma!
-## Aspiring SOC Analyst | Cybersecurity Enthusiast | AI & Automation | Developer
+![image](https://github.com/user-attachments/assets/05ad5d2b-f27e-4181-9310-2bbf4c55ac80)# 👋 Hi, I'm Somesh Sharma!
+![image](https://github.com/user-attachments/assets/0ace6b48-fda9-4324-8dca-75b178c79d85)
 
 Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specialization in CyberSecurity & CyberDefense** at Sri Sri University. My passion lies at the intersection of **Cybersecurity, Artificial Intelligence, and Programming**, where I strive to build innovative solutions that solve real-world problems. 
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specializati
 
 ## 🏆 **Highlights of My Journey**
 ### **My Projects**
-- **[AIPAT](https://github.com/someshsce/AIPAT)**: AI-Powered Assistance Tool for Terminal.
+- **[AIPAT](https://github.com/someshsce/aipatt)**: AI Powered Assistance Tool for Terminal.
   - Features: Shell automation, AI code generation, chat, and more.
   - Powered by **Meta's LLaMa** model with local processing.
 - **ASTRA**: An ethical malware project built for testing and cybersecurity education.
