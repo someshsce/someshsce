@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specializati
 - 🎓 **Academic Focus**: Cybersecurity, AI, and Software Development.  
 - 💻 **Technical Enthusiast**: Eager to explore cutting-edge technologies in **Cybersecurity Automation**, **AI Integration**, and **System Optimization**.  
 - 🛠️ **Projects & Internships**: Hands-on experience in developing security tools, AI-based solutions, and scalable systems.  
-- 🌐 **Portfolio Website**: Check out my work at [someshs.me](https://someshs.me).
+- 🌐 **Portfolio Website**: Check out my work at [someshs.tech](https://someshs.tech).
 
 ---
 
@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm a student of **B.Tech in CSE with Specializati
 
 ## 🛠️ **Tech Stack**
 ### **Programming Languages**
-- Python | C++  
+- Python | Java  
 ### **Frameworks & Libraries**
-- Django | DRF | React.js | WebSockets | Socket 
+- Django | DRF | React.js | WebSockets | Socket | Express.js | Node.js | Next.js | Flask
 ### **Cybersecurity Tools**
 - Wazuh | TheHive | MISP | ELK Stack | pfSense | OPNsense | Snort IDS/IPS | Metasploit | Nmap 
 ### **Development Tools**
@@ -59,7 +59,7 @@ I’m currently working on:
 
 ## 🌐 **Let’s Connect**
 - 📧 Email: [someshs.ce@gmail.com](mailto:someshs.ce@gmail.com)  
-- 🌐 Portfolio: [someshs.me](https://someshs.me)  
+- 🌐 Portfolio: [someshs.tech](https://someshs.tech)  
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/somesh9)  
 
 ---
